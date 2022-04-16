@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  width: auto;
+  background-color: rgb(129, 218, 159);
+  color: brown;
+  border-radius: 6px;
+  margin: 18px;
+  padding: 5px;
+}
